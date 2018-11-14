@@ -20,3 +20,13 @@ The photo gallery also allow you to see all of the available photos as grayscale
 ## Technologies
 
 I used HTML, CSS, and React to create this application. I also utilized the Reactstrap and FontAwesome libraries.
+
+## In The Future
+
+I had very limited time to create this app and I would like to update some of its features in the future. Here are the main things I would improve upon"
+
+1. Currently, the application does not support screen reader functionality. With more time, I would like to make it 100% WCAG compliant by adding accessibility functionality and features through ARIA.
+
+2. I would like to implement unit tests to confirm that currently works would continue to work as I iterate on this application.
+
+3. I would like to make it possible for the user to change the dimensions of the photos in the gallery. The Lorem Picsum API makes it easy to do so, but I did not have enough time to make sure that the layout and style of the app could respond when a user changes photo size.
