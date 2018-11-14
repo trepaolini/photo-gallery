@@ -1,6 +1,6 @@
 # Photo Gallery
 
-[Live Demo Here][http://students.washington.edu/mpaoli/photo-gallery"]
+[Live Demo Here](http://students.washington.edu/mpaoli/photo-gallery)
 
 ## Instructions to Install
 
