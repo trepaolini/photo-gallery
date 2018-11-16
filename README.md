@@ -23,7 +23,7 @@ I used HTML, CSS, and React to create this application. I also utilized the Reac
 
 ## In The Future
 
-I had very limited time to create this app and I would like to update some of its features in the future. Here are the main things I would improve upon"
+Because I had limited time to creat this app, I know that there are parts of the app that could improve this app overall. Here are the major changes I would make:
 
 1. Currently, the application does not support screen reader functionality. With more time, I would like to make it 100% WCAG compliant by adding accessibility functionality and features through ARIA.
 
